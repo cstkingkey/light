@@ -24,8 +24,6 @@ requirement:
 
 VC builds: Intel or AMD CPUs support SSE2
 
-    Windows XP sp3 
-
 ICC builds: Intel CPUs support SSE4.1
 
     AMD CPUs may mot work properly 
