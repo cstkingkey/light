@@ -1,10 +1,15 @@
-light
-=====
+# Light (Old Repo)
+
+This is the old repository for the Light Web Browser as originally maintained by cstkingkey. To see current progress, please [visit my repo](https://github.com/JOYProjects/Light-Web-Browser).
+
+The original text is provided below, although one link had to be changed because the files offered there are too old.
+
+---
 
 light, a light firefox
 
 
-download is available at http://goo.gl/VcMgth
+download is available at (Google Drive link is deprecated; use [SourceForge](https://sourceforge.net/projects/lightfirefox/))
 
 both x86 and x64 available
 both classic and Australis themes are available
