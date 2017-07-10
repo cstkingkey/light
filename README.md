@@ -1,34 +1,16 @@
-# Light (Old Repo)
+# Light (A Light Firefox)
+For newer versions of Light, please [visit this repo](https://github.com/JOYProjects/Light-Web-Browser).
 
-This is the old repository for the Light Web Browser as originally maintained by cstkingkey. To see current progress, please [visit my repo](https://github.com/JOYProjects/Light-Web-Browser).
+## Available to Download!
+Download working, older versions at [SourceForge](https://sourceforge.net/projects/lightfirefox/).
 
-The original text is provided below, although one link had to be changed because the files offered there are too old.
+## Details
+Many components are slimmed down, so it can start faster and use less memory.
 
----
+You can choose which version of Light you want by:
+- **Hardware type:** I have x86 (32-bit) and x64 (64-bit) versions of Light available
+- **Theme:** Currently, I offer Classic Firefox and Australis.
+- **Compilation:** Light was built using VC and ICC; you can choose which one works better for you. VC builds require Intel or AMD CPUs that support SSE2, while ICC builds require Intel CPUs that support SSE4.1. Light may not run well on systems with AMD CPUs, so please report problems if you attempt to run it on such a system.
+- **Language:** Currently, only English (eng) and Chinese (zh-CN) are available. Leave a comment if you need me to build it in another language.
 
-light, a light firefox
-
-
-download is available at (Google Drive link is deprecated; use [SourceForge](https://sourceforge.net/projects/lightfirefox/))
-
-both x86 and x64 available
-both classic and Australis themes are available
-both vc and ICC builds are available
-
-
-
-a light Firefox edition. Many components are slimmed down. So it can start faster and use less memory.
-
-If you need other localized version(eg, zh-CN)，you can leave a message.
-
-
-all builds support portable mode. In order to use the portable mode,please rename the custom_t.ini to custom.ini .
-
-
-requirement:
-
-VC builds: Intel or AMD CPUs support SSE2
-
-ICC builds: Intel CPUs support SSE4.1
-
-    AMD CPUs may mot work properly 
+*Note:* All builds support portable mode. In order to switch to it, please rename `custom_t.ini` to `custom.ini`.
